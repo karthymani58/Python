@@ -1,4 +1,4 @@
-# Python Strings and Tuples Assignment
+# Python Strings and Tuples 
 
 ## Overview
 This project covers basic Python string operations and tuple manipulation:
